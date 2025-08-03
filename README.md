@@ -1,5 +1,21 @@
 <h1 align="center">Hi 👋, I'm Cai</h1>
 <h3 align="center">Full-stack developer passionate about creating purpose-driven solutions, with a lifelong love for learning and building meaningful connections</h3>
+<h3 align="left"> Areas of Interest</h3>
+
+<ul>
+  <li>🧠 Artificial Intelligence & Machine Learning</li>
+  <li>🔐 Cybersecurity & Digital Privacy</li>
+  <li>📊 Data Science</li>
+  <li>🏫 Education and Learning Technology</li>
+  <li>🛡️ Ethics in Technology</li>
+  <li>🩺 Healthcare Technology</li>
+  <li>🧍‍♀️ Human-Computer Interaction (HCI)</li>
+  <li>🌡️ Internet of Things (IoT)</li>
+  <li>📱 Mobile App Development</li>
+  <li>⏱️ Real-Time Systems</li>
+  <li>🌐 Software Development</li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
